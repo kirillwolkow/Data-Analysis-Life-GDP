@@ -2,6 +2,7 @@
 
 - Created an analysis of the correlation between life expectancy and GDP of six nations
 - Used data from World Health Organization and World Bank
+- Published an article on Medium: https://medium.com/@kirillwolkow/life-expectancy-and-gdp-is-there-a-correlation-3b53be6b0fd6
 
 ## Code and Resources Used
 Python Version: 3.7
