@@ -1,14 +1,14 @@
 # Capstone Project: Life Expectancy and GDP Analysis
 
-- Created a Presentation of a stock profile of the Netflix Stock
-- Used data from Yahoo Finance
+- Created an analysis of the correlation between life expectancy and GDP of six nations
+- Used data from World Health Organization and World Bank
 
 ## Code and Resources Used
 Python Version: 3.7
-  Packages: Pandas, Matplotlib, Seaborn
+  Packages: Pandas, Numpy, Matplotlib & Seaborn
 Jupyter Notebook
-https://www.codecademy.com/paths/data-analyst/tracks/dacp-data-visualization/modules/dscp-seaborn-challenge-projects/informationals/capstone-project-netflix-data
-Yahoo Finance Stock Data
+https://www.codecademy.com/paths/data-analyst/tracks/dacp-data-visualization-portfolio-project/modules/dscp-life-expectancy-and-gdp/kanban_projects/life-expectancy-and-gdp-portfolio-project
+Data is given from Codecademy (Source: WHO and World Bank)
 
 ## Summary/Findings
-The Netflix stock made a higher performance in profits, but was also more volatile. The Netflix stock accounts for less than 1% of the Dow Jones Index and has therefore little impact on the overall market.
+There is a strong positive correlation between a nation's GDP and life expectancy. That means, the higher the GDP, the higher the life expectancy. And also there is an upwards trend in both parameters.
